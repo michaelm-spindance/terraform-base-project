@@ -1,3 +1,3 @@
 output "version" {
-  value = "0.1"
+  value = "0.2"
 }
